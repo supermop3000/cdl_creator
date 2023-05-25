@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorDecisionList xmlns="urn:ASC:CDL:v1.01">
+	<ColorDecision>
+		<ColorCorrection id="IDL_105_060_010">
+			<SOPNode>
+				<Slope>1.128606 0.995051 0.963342</Slope>
+				<Offset>0.005787 0.007848 -0.036135</Offset>
+				<Power>0.970106 1.005309 1.024626</Power>
+			</SOPNode>
+			<SatNode>
+				<Saturation>1.0</Saturation>
+			</SatNode>
+		</ColorCorrection>
+	</ColorDecision>
+</ColorDecisionList>
